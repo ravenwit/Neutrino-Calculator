@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Neutrino Calculator", "Neutrino Calculator\Neutrino Calculator.vbproj", "{088C982B-7B3F-4376-A107-CD42031DD66F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088C982B-7B3F-4376-A107-CD42031DD66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088C982B-7B3F-4376-A107-CD42031DD66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088C982B-7B3F-4376-A107-CD42031DD66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088C982B-7B3F-4376-A107-CD42031DD66F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

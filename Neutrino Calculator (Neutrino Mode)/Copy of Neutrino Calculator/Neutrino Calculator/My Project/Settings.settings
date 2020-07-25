@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="j" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MemoryOperations</Value>
+    </Setting>
+    <Setting Name="kj" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Transparent</Value>
+    </Setting>
+    <Setting Name="lk" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">WhiteSmoke</Value>
+    </Setting>
+    <Setting Name="Text" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">GradientInactiveCaption</Value>
+    </Setting>
+    <Setting Name="Memory" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

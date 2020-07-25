@@ -1,0 +1,16 @@
+Angel Input
+360 deg = 2pi rad
+1 deg   = 2pi/360 rad = pi/180 rad
+
+400 grad = 2pi rad
+1 grad   = 2pi/400 grad = pi/200 grad
+
+1 rad = 1 rad
+
+Angel Output
+
+2pi rad = 360 deg
+1 rad   = 360/2pi deg=180/pi deg
+
+2pi rad = 400 grad
+1 rad   = 400/2pi grad = 200/pi grad

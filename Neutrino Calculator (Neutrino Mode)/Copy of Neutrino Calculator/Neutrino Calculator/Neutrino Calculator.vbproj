@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{088C982B-7B3F-4376-A107-CD42031DD66F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Neutrino_Calculator.My.MyApplication</StartupObject>
+    <RootNamespace>Neutrino_Calculator</RootNamespace>
+    <AssemblyName>Neutrino Calculator</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator %28Neutrino Mode%29\Soft\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Neutrino Calculator</ProductName>
+    <PublisherName>Neutrino</PublisherName>
+    <ApplicationRevision>70</ApplicationRevision>
+    <ApplicationVersion>7.2.20.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Neutrino Calculator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Neutrino Calculator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4B9928FA58F28AECF01D60DD1B966E1B45E8ADFF</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Neutrino Calculator_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking, Version=4.3.2.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Navigator, Version=4.3.2.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Ribbon, Version=4.3.2.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e">
+      <HintPath>..\..\..\..\..\Dynamic Link LIbraries\Crypton Factory\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.3.5.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace, Version=4.3.2.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Neutrino Calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Neutrino Calculator.Designer.vb">
+      <DependentUpon>Neutrino Calculator.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="Neutrino Calculator.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Neutrino Calculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Neutrino Calculator_TemporaryKey.pfx" />
+    <None Include="Resources\arcsiny.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sin-1-y.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cos-1-y.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tan-1-y.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP961a003666d2g4dhcd00005g0eie88d81dihh6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP70481a002d8b4e22gac2000050fi7c3cgb8h641c.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP50691a00312ei4haed55000065ic9296cbae9eeh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP25851a0033aa04b98hg600002b9ecd46ecdi93dg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP12281a00353d5aei1e4e00006a56e0h2i206g6ia.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP2471a0036b5a2ce38d8000035dh2i5a3c3c13f9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP53211a002hichh56384e00000hd4030559cc9g18.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP4061a0036aef4fe24ab00003419hh427a72ddfa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSP4461a003691845d01bi00001bgchc9hdd202gaa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62de3aac5ab6b695b615498d05065189.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9bb4c5f619fb6d5f255c30d632fac8ad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3e64c04b4e255b35bc688310f5286ba8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5f213e7bb36c7b9cf85642e3e24f87db.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3300ffc3669677063340e0c6e1e00f7a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ff14478418c00facf373c27122df9541.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7db3e07c3fa025fcd6d0d8aae0c4c93c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e903e88b45d7fdf1d62a8f1313926652.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bd148eca14a12c92c98046275dd00462.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5c49acba137d4befefe737e0ddf45fab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8ca3bef07c48d2a352988c7eaaac851f.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1530f0070d6445e47e7fd7424ba35f4c.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

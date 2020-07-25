@@ -1,0 +1,25 @@
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\bin\Debug\Neutrino Calculator.exe
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\bin\Debug\Neutrino Calculator.pdb
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\bin\Debug\Neutrino Calculator.xml
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\Neutrino_Calculator.NeutrinoCalculator.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\Neutrino_Calculator.Resources.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.exe
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.xml
+C:\Users\Shakir\AppData\Local\Temporary Projects\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\bin\Debug\Neutrino Calculator.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\bin\Debug\Neutrino Calculator.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\bin\Debug\Neutrino Calculator.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino_Calculator.NeutrinoCalculator.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino_Calculator.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\bin\Debug\Neutrino Calculator.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.exe.licenses
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino_Calculator.Form1.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino_Calculator.Form2.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.vbprojResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Calculator\Neutrino Calculator\Neutrino Calculator\obj\x86\Debug\Neutrino Calculator.vbproj.GenerateResource.Cache

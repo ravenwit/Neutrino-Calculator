@@ -1,0 +1,40 @@
+y^x
+x^y
+
+mod
+exp
+npr
+ncr
+
+
+                    nCr
+dim numerator=1, factorial_r=1, factorial_nr=1, denominator, i
+for i=1 to n
+numerator=numerator*i
+next
+
+for i=1 to r
+factorial_r=factorial_r*i
+next
+
+for i=1 to (n-r)
+factorial_nr=factorial_nr*i
+next
+
+denominator=factrorial_r*factorial_nr
+
+number1=numerator/denominator
+
+
+
+               nPr
+dim numerator=1, denominator, i
+for i=1 to n
+numerator=numerator*i
+next
+
+for i=1 to (n-r)
+denominator=denominator*i
+next
+
+number1=numerator/denominator
